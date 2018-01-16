@@ -1,10 +1,9 @@
 {
-  "name": "teksty",
+  "name": "juery2",
   "version": "1.0.0",
-  "description": "teksty",
+  "description": "juery2",
   "main": "index.js",
   "scripts": {
-
     "test": "npm run test:js && npm run test:html",
     "test:html": "nu-html-checker *.html",
     "test:js": "jshint js/*.js",
@@ -25,15 +24,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dimethyltryptamin/teksty.git"
+    "url": "git+https://github.com/dimethyltryptamin/juery2.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dimethyltryptamin/teksty/issues"
+    "url": "https://github.com/dimethyltryptamin/juery2/issues"
   },
-  "homepage": "https://github.com/dimethyltryptamin/teksty#readme",
+  "homepage": "https://github.com/dimethyltryptamin/juery2#readme",
   "dependencies": {
     "autoprefixer-cli": "^1.0.0",
     "browser-sync": "^2.18.13",
